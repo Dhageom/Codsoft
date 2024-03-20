@@ -172,7 +172,7 @@ restart:
 next:
     winner(symbol, s1, s2);
     cin >> decision;
-    if (decision == 1)
+    if (decision == 4)
     {
         goto restart;
     }
