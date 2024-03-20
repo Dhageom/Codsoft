@@ -7,7 +7,7 @@ int main()
 {
 
     srand(time(0));
-    int x,y,z = rand() % 100;
+    int x,z,y = rand() % 100;
     string s;
 start:
     cout << "we will guess a number for you\n";
